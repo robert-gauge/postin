@@ -1,1 +1,5 @@
-curl -X POST -H 'Content-type: application/json' --data '{"text":"/in"}' https://hooks.slack.com/services/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
+{
+  channel:          C4N1X040Z,
+  as_user:          true,
+  text:             "/in",
+}
